@@ -38,6 +38,10 @@ As a part of Pizza sales analysis I have created two projects to visualize detai
   
 </details>
 
+* Dashboard Sample Screenshots:
+  
+![Pizza_Sales_Dashboard](https://github.com/user-attachments/assets/e4ced2dd-b5ef-48c6-9da2-356bc3629dde)
+
 ***
 # 2_Pizza Sales Report using Excel+PowerBI
 * Online Report URL: [Click here Pizza Sales Live Report](https://app.powerbi.com/groups/me/reports/befbbe3a-ee50-42f3-8304-4e2caaf3d4ae/80695414cbc0c6d421ec?experience=power-bi)
@@ -135,7 +139,19 @@ As a part of Pizza sales analysis I have created two projects to visualize detai
   * Easy filtering options for deeper analysis.
   * Dynamic insights based on sales trends, customer preferences, and more.
 
+
+* Report Sample Screenshots:
+
+![Pizza_Sales_Report_1](https://github.com/user-attachments/assets/2114fae6-8092-4a01-86d6-a26d2cf7f4c4)
+
+![Pizza_Sales_Report_2](https://github.com/user-attachments/assets/5bf62b32-47c3-4601-baca-ce3d02d2e8a0)
+
+![Pizza_Sales_Report_3](https://github.com/user-attachments/assets/4318fbbb-5e81-4ee7-b694-a910fefcbbbd)
+
 </details>
+
+
+
 
 ***
 **Technologies Used**
