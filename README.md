@@ -1,8 +1,52 @@
-# Pizza Sales Analysis Report
+# Pizza Sales Analysis
 ***
-This Power BI report provides a comprehensive analysis of pizza sales data. It covers various aspects of sales, including trends, customer preferences, and revenue breakdowns, offering insights into the business performance across different time periods and categories.
+As a part of Pizza sales analysis I have created two projects to visualize detailed analysis. 
 
-**Problem Statements Visualized**
+* The first project is Pizza Sales Dashboard which provides top level overview of pizza sales using different KPIs and Charts.
+* The Second project provides a comprehensive analysis of pizza sales data. It covers various aspects of sales, including trends, customer preferences, and revenue breakdowns, offering insights into the business performace across different time periods and categories.
+
+# 1_Pizza Sales Dashboard Using Excel+SQL+Power BI
+
+* Live Dashboard URL: [Click here Pizza Sales Dashboard](https://app.powerbi.com/groups/me/reports/d83e7d01-ff19-4acb-ae7c-5e542c88b75e/dd058ef07526816a64b6?experience=power-bi)
+<details open>
+  <summary>Requirements</summary>
+
+  **1. KPI REQUIREMENTS**
+  * Total Revenue: The sum of the total price of all pizza orders.
+  * Average Order Value: The average amount spent per order, calculated using total revenue by the total number of orders.
+  * Total Orders: The total number of orders placed.
+  * Average Pizzas per Order: The average number of pizzas sold per order. Calculated using dividing total number of pizzas sold by the total number of orders.
+  
+  **2. CHARTS REQUIREMENTS**
+  * Daily Trend for Total Orders: Create a bar chart that displays the daily trend of total orders over a specific time period. This chart will help us identify any patterns or fluctuations in order volumns on a daily basis.
+
+  * Monthly Trend for Total Orders: Create a line chart explains the hourly trend of total orders throught the day. This char will allow us to identify peak hours or periods of high order activity.
+
+  * Percentage of Sales by Pizza Category: Create pi chart to show distribution of sales across different pizza categories. This will provide insights into the popularity of various pizza categories and their contribution to overall sales.
+
+  * Percentage of Sales by Pizza Size:
+  Generate a pie chart that shows the percent of sales pizza size wise. 
+
+  * Total Pizza Sold by Pizza Category:
+    Create funnel chart to show the total pizzas sold for each category. This will allow us to compare the sales performace of different pizza categories.
+
+  * Top 5 Best Seller by Revenue, Total Quantity and Total Orders:
+    Create bar chart to show top 5 best selling pizzas based on the revenue, quantity and orders. This will help us identify the most popular pizza options.
+
+  * Bottom 5 Best Seller by Revenue, Quantity and Orders:
+    Create bar chart to show the bottom worst selling pizzas based on revenue, quantity and orders. This will help us to identify underperforming pizza options.
+  
+</details>
+
+***
+# 2_Pizza Sales Report using Excel+PowerBI
+* Online Report URL: [Click here Pizza Sales Live Report](https://app.powerbi.com/groups/me/reports/befbbe3a-ee50-42f3-8304-4e2caaf3d4ae/80695414cbc0c6d421ec?experience=power-bi)
+<details>
+  <summary>
+  Problem Statements Visualized
+  </summary>
+
+  
 
 **1. Total Sales Over Time**
 
@@ -91,9 +135,13 @@ This Power BI report provides a comprehensive analysis of pizza sales data. It c
   * Easy filtering options for deeper analysis.
   * Dynamic insights based on sales trends, customer preferences, and more.
 
+</details>
+
+***
 **Technologies Used**
   * Power BI: For data visualization and report creation.
   * Excel/CSV: For data storage and preprocessing.
+  * MySql    : For data storage and preprocessing
 
 **How to Use**
   * Download and Install Power BI Desktop from Microsoft.
@@ -103,5 +151,6 @@ This Power BI report provides a comprehensive analysis of pizza sales data. It c
 **Contributing**
 Feel free to contribute by raising issues or submitting pull requests. Your contributions are greatly appreciated!
 
+
 **Author**
-  -> Priyanka Metkar
+  *  Priyanka Metkar
